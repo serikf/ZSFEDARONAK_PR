@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSFE_DISCOUNT</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>16</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>16</SCRLEN2>
+    <SCRLEN3>16</SCRLEN3>
+    <DDTEXT>Discount_Percent</DDTEXT>
+    <REPTEXT>Discount_Percent</REPTEXT>
+    <SCRTEXT_S>Discount_P</SCRTEXT_S>
+    <SCRTEXT_M>Discount_Percent</SCRTEXT_M>
+    <SCRTEXT_L>Discount_Percent</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>INT2</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Скидка</DDTEXT>
+     <REPTEXT>Скидка</REPTEXT>
+     <SCRTEXT_S>Скидка</SCRTEXT_S>
+     <SCRTEXT_M>Скидка</SCRTEXT_M>
+     <SCRTEXT_L>Скидка</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

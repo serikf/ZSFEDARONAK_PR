@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSFE_OWNER_LAST_NAME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZSFE_OWNER_NAME</DOMNAME>
+    <HEADLEN>15</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>15</SCRLEN3>
+    <DDTEXT>Owner_Last_Name</DDTEXT>
+    <REPTEXT>Owner_Last_Name</REPTEXT>
+    <SCRTEXT_S>Own_LName</SCRTEXT_S>
+    <SCRTEXT_M>Owner_Last_Name</SCRTEXT_M>
+    <SCRTEXT_L>Owner_Last_Name</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Фамилия Покупателя</DDTEXT>
+     <REPTEXT>Фамилия Покупат</REPTEXT>
+     <SCRTEXT_S>Фамилия</SCRTEXT_S>
+     <SCRTEXT_M>Фамилия Покупат</SCRTEXT_M>
+     <SCRTEXT_L>Фамилия Покупат</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

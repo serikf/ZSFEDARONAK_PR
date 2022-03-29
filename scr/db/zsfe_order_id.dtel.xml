@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSFE_ORDER_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>ZSFE_ORDER_ID</DOMNAME>
+    <HEADLEN>08</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>08</SCRLEN2>
+    <SCRLEN3>08</SCRLEN3>
+    <DDTEXT>Order_ID</DDTEXT>
+    <REPTEXT>Order_ID</REPTEXT>
+    <SCRTEXT_S>Order_ID</SCRTEXT_S>
+    <SCRTEXT_M>Order_ID</SCRTEXT_M>
+    <SCRTEXT_L>Order_ID</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>ID Заказа</DDTEXT>
+     <REPTEXT>ID Заказ</REPTEXT>
+     <SCRTEXT_S>ID Заказ</SCRTEXT_S>
+     <SCRTEXT_M>ID Заказ</SCRTEXT_M>
+     <SCRTEXT_L>ID Заказ</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>FG for rows</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZSFE_FG_ROWSTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZSFE_FG_ROWS</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZSFE_FG_ROWS_FM</FUNCNAME>
+     <SHORT_TEXT>FM for rows</SHORT_TEXT>
+     <IMPORT>
+      <RSIMP>
+       <PARAMETER>IV_DATE</PARAMETER>
+       <REFERENCE>X</REFERENCE>
+       <TYP>DATUM</TYP>
+      </RSIMP>
+     </IMPORT>
+     <DOCUMENTATION>
+      <RSFDO>
+       <PARAMETER>IV_DATE</PARAMETER>
+       <KIND>P</KIND>
+       <STEXT>Date</STEXT>
+      </RSFDO>
+     </DOCUMENTATION>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

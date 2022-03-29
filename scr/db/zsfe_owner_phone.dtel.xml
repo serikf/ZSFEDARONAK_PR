@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSFE_OWNER_PHONE</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>CHAR20</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>05</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Owner_Phone_Number</DDTEXT>
+    <REPTEXT>Phone_Number</REPTEXT>
+    <SCRTEXT_S>Phone</SCRTEXT_S>
+    <SCRTEXT_M>Phone_Number</SCRTEXT_M>
+    <SCRTEXT_L>Phone_Number</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>R</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>R</DDLANGUAGE>
+     <DDTEXT>Телефон Покупателя</DDTEXT>
+     <REPTEXT>Телефон Поку</REPTEXT>
+     <SCRTEXT_S>Телеф</SCRTEXT_S>
+     <SCRTEXT_M>Телефон Поку</SCRTEXT_M>
+     <SCRTEXT_L>Телефон Поку</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
